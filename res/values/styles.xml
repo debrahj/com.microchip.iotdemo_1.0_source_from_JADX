@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+    </style>
+    <style name="Theme.Base">
+    </style>
+    <style name="Theme.Sample">
+    </style>
+    <style name="Widget">
+    </style>
+    <style name="Widget.SampleMessage">
+        <item>?unknown_attr_ref: 1010041</item>
+        <item>1.1</item>
+    </style>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppBaseTheme">
+    </style>
+</resources>

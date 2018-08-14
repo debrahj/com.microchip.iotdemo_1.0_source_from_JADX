@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Built-By: 1.0.0
+Created-By: Android Gradle 1.0.0
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: zzmQ5u/dLiQo7JfGV2FlnEUqIX8=
+
+Name: res/layout/mldp_text_screen.xml
+SHA1-Digest: 9vZtrYe7CWMl2+AOA5Vp6Qjb+QA=
+
+Name: res/drawable/switch_on.png
+SHA1-Digest: +p81CJvAlb315kAEFzzvT3gT7JM=
+
+Name: res/drawable/led_off2.png
+SHA1-Digest: N8OsxyQMLnkHgc4vPMROgo5BSqg=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher2.png
+SHA1-Digest: bzH1j7eYYYjwFla2gor/NH6w+vk=
+
+Name: resources.arsc
+SHA1-Digest: E9MwE/bcy04+BMB2C/stzbGprsM=
+
+Name: classes.dex
+SHA1-Digest: sj1UdePrXswd8Xl39NV5NrA98qM=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: V1pVchk+Vtn4xpf3PtptmQgrmng=
+
+Name: res/drawable/led_on2.png
+SHA1-Digest: 1hhQtU2trW6ReXfrH01Z8bq/eOU=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: wZK7TD0QzKjBIJGmLrbeQBdQjII=
+
+Name: res/menu/main.xml
+SHA1-Digest: slWYsu3na+Lny+OI4fDZqedBS9U=
+
+Name: res/menu/gatt_services.xml
+SHA1-Digest: K955pwfa6I82teOPH6v3TkVKbKs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0Al4E5dbGLubytpeXXqB9Vxy2jI=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: kiWb115wRu71qHHNeej2maJZf7k=
+
+Name: res/drawable/led_off.png
+SHA1-Digest: D3WBU6wCKX9Vk/TrVTXwoK8jfsc=
+
+Name: res/layout/actionbar_indeterminate_progress.xml
+SHA1-Digest: HleW4BC0vL5vZAXsnIxd5HfOEqc=
+
+Name: res/drawable-hdpi-v4/ic_launcher2.png
+SHA1-Digest: 2oOGycHNj4uC9Zq7mShueC8lhEQ=
+
+Name: res/drawable/led_on.png
+SHA1-Digest: bT3VUUX/At1C87V5hD8xUzBzpjY=
+
+Name: res/drawable-mdpi-v4/ic_launcher2.png
+SHA1-Digest: uiQ9Ejpv+qZdQuGhldV2U60q9M0=
+
+Name: res/layout/listitem_device.xml
+SHA1-Digest: E3ji/Q02iiQYdh78J/p65LGxl2A=
+
+Name: res/drawable-xhdpi-v4/ic_launcher2.png
+SHA1-Digest: 8p68ENxtOX2bWOyKMV2XwFGlzh4=
+
+Name: res/drawable/switch_off.png
+SHA1-Digest: n7teZBAIPAGpb/znQzZCkXhYEQI=
+

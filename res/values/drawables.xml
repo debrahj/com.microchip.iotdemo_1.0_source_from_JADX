@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_launcher">res/drawable-mdpi-v4/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-hdpi-v4/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-xhdpi-v4/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-xxhdpi-v4/ic_launcher.png</drawable>
+    <drawable name="ic_launcher2">res/drawable-mdpi-v4/ic_launcher2.png</drawable>
+    <drawable name="ic_launcher2">res/drawable-hdpi-v4/ic_launcher2.png</drawable>
+    <drawable name="ic_launcher2">res/drawable-xhdpi-v4/ic_launcher2.png</drawable>
+    <drawable name="ic_launcher2">res/drawable-xxhdpi-v4/ic_launcher2.png</drawable>
+    <drawable name="led_off">res/drawable/led_off.png</drawable>
+    <drawable name="led_off2">res/drawable/led_off2.png</drawable>
+    <drawable name="led_on">res/drawable/led_on.png</drawable>
+    <drawable name="led_on2">res/drawable/led_on2.png</drawable>
+    <drawable name="switch_off">res/drawable/switch_off.png</drawable>
+    <drawable name="switch_on">res/drawable/switch_on.png</drawable>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <menu name="gatt_services">res/menu/gatt_services.xml</menu>
+    <menu name="main">res/menu/main.xml</menu>
+</resources>
